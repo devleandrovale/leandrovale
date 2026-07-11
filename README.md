@@ -35,7 +35,7 @@ Busco oportunidades como **Estágios, Suporte Técnico ou Desenvolvedor Frontend
 
 ### 🤝 Vamos nos conectar?
 - 📧 **E-mail:** devleandrovale@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/devleandrovale/](https://www.linkedin.com/in/devleandrovale/)
+- 💼 **LinkedIn:** [linkedin.com/in/devleandrovale](https://www.linkedin.com/in/devleandrovale/)
 - 📍 Teresina - PI (Disponível para oportunidades locais ou Remotas)
 
 ---
